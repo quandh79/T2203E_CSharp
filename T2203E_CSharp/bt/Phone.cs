@@ -8,7 +8,7 @@ namespace T2203E_CSharp.bt
 {
     internal class Phone
     {
-        public string Name;
-        public List<string> PhoneNumbers;
+        public string Name { get; set; }
+        public List<string> { get; set; }
     }
 }
