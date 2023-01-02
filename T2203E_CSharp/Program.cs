@@ -1,9 +1,5 @@
-﻿using T2203E_CSharp.session1;
-using T2203E_CSharp.session2;
+﻿using T2203E_CSharp.session5;
 
-using T2203E_CSharp.Contact;
-using T2203E_CSharp.session4;
-using T2203E_CSharp.bt;
 
 public class Program
 {
